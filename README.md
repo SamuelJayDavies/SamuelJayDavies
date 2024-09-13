@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Move Recommendation Web Application using Python Machine Learning and React<br>👯 I’m looking to collaborate on any Open Source Web-Based Projects<br>🌱 I’m currently learning about Cloud Based Solutions with AWS
+🔭 I’m currently working on a Move Recommendation Web Application using Python Machine Learning and React<br>👯 I’m looking to collaborate on any Open Source Web-Based Projects<br>🌱 I'm currently studying Software Engineering (BEng) in Swansea University
 
 
 ## 🌐 Socials:
