@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Move Recommendation Web Application using Python Machine Learning and React<br>👯 I’m looking to collaborate on any Open Source Web-Based Projects<br>🌱 I'm currently studying Software Engineering (BEng) in Swansea University
+🔭 I’m currently working on an AI-based reconstruction pipeline transforming abstract real-world objects into Lego-style representations<br> 👯 I’m looking to collaborate on any Open Source Web-Based Projects<br>🌱 I'm currently studying Artificial Intelligence (MSc) at the University of Bath
 
 
 ## 🌐 Socials:
