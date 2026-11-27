@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-davies-b17b5228a/">LinkedIn</a>
-  &nbsp;·&nbsp; MSc Artificial Intelligence
+  &nbsp;·&nbsp; First-Class MSc Artificial Intelligence
   &nbsp;·&nbsp; First-Class BEng Software Engineering
 </p>
 
