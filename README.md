@@ -1,21 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on an AI-based reconstruction pipeline transforming abstract real-world objects into Lego-style representations<br> 👯 I’m looking to collaborate on any Open Source Web-Based Projects<br>🌱 I'm currently studying Artificial Intelligence (MSc) at the University of Bath
+<img src="./assets/ai-ml-banner.svg" width="100%" alt="Samuel Davies — AI, machine learning, data science and software engineering portfolio" />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-davies-b17b5228a/">LinkedIn</a>
+  &nbsp;·&nbsp; MSc Artificial Intelligence
+  &nbsp;·&nbsp; First-Class BEng Software Engineering
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-davies-b17b5228a) 
+## About me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamuelJayDavies&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelJayDavies&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelJayDavies&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+I'm an aspiring AI and Machine Learning Engineer with postgraduate research experience in artificial intelligence and a strong foundation in software engineering.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SamuelJayDavies&theme=default&no-frame=false&no-bg=false&margin-w=4)
+I have completed my MSc studies in Artificial Intelligence at the University of Bath (final result pending), following a First-Class BEng in Software Engineering at Swansea University.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SamuelJayDavies&limit=5&theme=dark&combine_all_yearly_contributions=true)
+My interests include computer vision, applied machine learning, data science and constraint-aware optimisation. I'm particularly interested in developing intelligent systems that combine rigorous experimentation with reliable software engineering.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm open to graduate and early-career opportunities in AI, machine learning and data science.
+
+## Selected projects
+
+### From Shapes to Structures | MSc research
+
+**Constraint-aware 3D reconstruction**
+
+My MSc dissertation investigated how 3D object representations can be transformed into buildable LEGO-style structures through a constrained artificial intelligence pipeline.
+
+- 3D voxelisation and brick generation
+- Constraint-aware brick placement and scoring
+- Comparative evaluation of heuristic and optimisation-based reconstruction methods
+
+**Tools and techniques:** Python · 3D representations · Search and optimisation · Experimental evaluation
+
+*Dissertation submitted; source code is currently private.*
+
+### PianoVision | In development
+
+**Computer vision for musical transcription**
+
+An independent project exploring how computer vision can extract musical notes from Synthesia-style falling-note videos, with the long-term goal of generating MIDI and sheet music.
+
+Currently experimenting with image preprocessing and visual note detection using OpenCV.
+
+**Tools and techniques:** Python · OpenCV · NumPy · Image processing
+
+*Early-stage project; a complete transcription pipeline is not yet available.*
+
+### [Deep-ML](https://github.com/SamuelJayDavies/deep-ml) | Ongoing practice
+
+Implementations and exercises covering mathematical and algorithmic foundations of machine learning, including linear algebra, derivatives and gradient descent.
+
+[Explore the interactive progress portfolio](https://samueljaydavies.github.io/deep-ml/)
+
+**Tools and techniques:** Python · Linear algebra · Calculus · Machine learning fundamentals
+
+### [Shed](https://github.com/SamuelJayDavies/Shed) | Software engineering
+
+A Java card game supporting different game modes, configurable gameplay and computer-controlled opponents. A demonstration of my object-oriented programming and application development background.
+
+**Tools and techniques:** Java · Object-oriented programming · Game logic · Maven
+
+## Technical toolkit
+
+| Area | Technologies and techniques |
+| :--- | :--- |
+| AI & machine learning | Python, scikit-learn, OpenCV, search and optimisation |
+| Data science | NumPy, pandas, SQL, Jupyter, statistical analysis |
+| Software engineering | Java, Git, Flask, JavaScript, React |
+| Cloud & development | AWS, Linux |
+
+## Education & certification
+
+| Qualification | Institution |
+| :--- | :--- |
+| MSc Artificial Intelligence — studies completed, result pending | University of Bath |
+| BEng Software Engineering — First-Class Honours (86% overall) | Swansea University |
+| AWS Certified AI Practitioner | Amazon Web Services |
+
+## Currently developing
+
+- PianoVision and practical computer vision techniques
+- Machine learning mathematics and algorithm implementations
+- End-to-end ML engineering, including model evaluation and deployment
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-davies-b17b5228a/">Connect with me on LinkedIn</a>
+</p>
