@@ -10,9 +10,9 @@
 
 I'm an aspiring AI and Machine Learning Engineer with postgraduate research experience in artificial intelligence and a strong foundation in software engineering.
 
-I have completed my MSc studies in Artificial Intelligence at the University of Bath (final result pending), following a First-Class BEng in Software Engineering at Swansea University.
+I have completed my MSc studies in Artificial Intelligence at the University of Bath (with a First-Class Distinction) following a First-Class BEng in Software Engineering at Swansea University.
 
-My interests include computer vision, applied machine learning, data science and constraint-aware optimisation. I'm particularly interested in developing intelligent systems that combine rigorous experimentation with reliable software engineering.
+My interests include machine learning, computer vision, data science and and everything data related.
 
 I'm open to graduate and early-career opportunities in AI, machine learning and data science.
 
