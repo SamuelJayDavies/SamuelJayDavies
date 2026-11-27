@@ -16,48 +16,6 @@ My interests include computer vision, applied machine learning, data science and
 
 I'm open to graduate and early-career opportunities in AI, machine learning and data science.
 
-## Selected projects
-
-### From Shapes to Structures | MSc research
-
-**Constraint-aware 3D reconstruction**
-
-My MSc dissertation investigated how 3D object representations can be transformed into buildable LEGO-style structures through a constrained artificial intelligence pipeline.
-
-- 3D voxelisation and brick generation
-- Constraint-aware brick placement and scoring
-- Comparative evaluation of heuristic and optimisation-based reconstruction methods
-
-**Tools and techniques:** Python · 3D representations · Search and optimisation · Experimental evaluation
-
-*Dissertation submitted; source code is currently private.*
-
-### PianoVision | In development
-
-**Computer vision for musical transcription**
-
-An independent project exploring how computer vision can extract musical notes from Synthesia-style falling-note videos, with the long-term goal of generating MIDI and sheet music.
-
-Currently experimenting with image preprocessing and visual note detection using OpenCV.
-
-**Tools and techniques:** Python · OpenCV · NumPy · Image processing
-
-*Early-stage project; a complete transcription pipeline is not yet available.*
-
-### [Deep-ML](https://github.com/SamuelJayDavies/deep-ml) | Ongoing practice
-
-Implementations and exercises covering mathematical and algorithmic foundations of machine learning, including linear algebra, derivatives and gradient descent.
-
-[Explore the interactive progress portfolio](https://samueljaydavies.github.io/deep-ml/)
-
-**Tools and techniques:** Python · Linear algebra · Calculus · Machine learning fundamentals
-
-### [Shed](https://github.com/SamuelJayDavies/Shed) | Software engineering
-
-A Java card game supporting different game modes, configurable gameplay and computer-controlled opponents. A demonstration of my object-oriented programming and application development background.
-
-**Tools and techniques:** Java · Object-oriented programming · Game logic · Maven
-
 ## Technical toolkit
 
 | Area | Technologies and techniques |
@@ -65,13 +23,13 @@ A Java card game supporting different game modes, configurable gameplay and comp
 | AI & machine learning | Python, scikit-learn, OpenCV, search and optimisation |
 | Data science | NumPy, pandas, SQL, Jupyter, statistical analysis |
 | Software engineering | Java, Git, Flask, JavaScript, React |
-| Cloud & development | AWS, Linux |
+| Cloud & development | AWS |
 
 ## Education & certification
 
 | Qualification | Institution |
 | :--- | :--- |
-| MSc Artificial Intelligence — studies completed, result pending | University of Bath |
+| MSc Artificial Intelligence — First-Class Distinction (74% Overall) | University of Bath |
 | BEng Software Engineering — First-Class Honours (86% overall) | Swansea University |
 | AWS Certified AI Practitioner | Amazon Web Services |
 
